@@ -14,15 +14,17 @@
 	$language = array();
 
 	// ########################### STATUS #############################
-	$language[1]			=	"Available";								// Available users
-	$language[2]			=	"Busy";										// Busy users
-	$language[3]			=	"Invisible";								// Invisible users
-	$status['available']	=	"I'm available";							// Default available status message
-	$status['busy']			=	"I'm busy";									// Default busy status message
-	$status['away']			=	"I'm idle";									// Default idle status message
-	$status['offline']		=	"I'm offline";								// Default offline status message
-	$status['invisible']	=	"I'm offline";								// Default invisible status message
-	$language[83]			=	"Guest";									// Displayed if the user has no username
+	$language[1]			=	"Verf&uuml;gbar";								// Available users
+	$language[2]			=	"Besch&auml;ftigt";										// Busy users
+	$language[3]			=	"Unsichtbar";								// Invisible users
+	$status['available']	=	"Bin verf&uuml;gbar";							// Default available status message
+	$status['busy']			=	"Bin besch&auml;ftigt";									// Default busy status message
+	$status['away']			=	"Bin abwesend";									// Default idle status message
+	$status['offline']		=	"Bin Offline";								// Default offline status message
+	$status['invisible']	=	"Bin Offline";								// Default invisible status message
+	$language[83]			=	"Gast";									// Displayed if the user has no username
+
+	// ##############
 
 	// ####################### SERVICE UPDATES ########################
 	$language[27]			=	"Chat is currently down for maintenance.";  // Hover message when chat is in maintenance mode
