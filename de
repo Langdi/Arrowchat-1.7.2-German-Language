@@ -13,41 +13,44 @@
 
 	$language = array();
 
+	$language = array();
+
 	// ########################### STATUS #############################
 	$language[1]			=	"Verf&uuml;gbar";								// Available users
 	$language[2]			=	"Besch&auml;ftigt";										// Busy users
 	$language[3]			=	"Unsichtbar";								// Invisible users
-	$status['available']	=	"Bin verf&uuml;gbar";							// Default available status message
-	$status['busy']			=	"Bin besch&auml;ftigt";									// Default busy status message
-	$status['away']			=	"Bin abwesend";									// Default idle status message
-	$status['offline']		=	"Bin Offline";								// Default offline status message
-	$status['invisible']	=	"Bin Offline";								// Default invisible status message
+	$status['available']       	=	"Client verf&uuml;gbar";							// Default available status message
+	$status['busy']			=	"Client besch&auml;ftigt";									// Default busy status message
+	$status['away']			=	"Client abwesend";									// Default idle status message
+	$status['offline']		=	"Client Offline";								// Default offline status message
+	$status['invisible']    	=	"Client unsichtbar";								// Default invisible status message
 	$language[83]			=	"Gast";									// Displayed if the user has no username
 
 	// ##############
 
 	// ####################### SERVICE UPDATES ########################
-	$language[27]			=	"Chat is currently down for maintenance.";  // Hover message when chat is in maintenance mode
-	$language[28]			=	"close"; 									// Close the announcement message
-	$language[58]			=	"You must register or login to use chat.";	// The message that guests view when logged out
-
+	$language[27]			=	"Chat ist derzeit im Wartungsmodus.";  // Hover message when chat is in maintenance mode
+	$language[28]			=	"schliessen"; 									// Close the announcement message
+	$language[58]			=	"Du musst eingeloggt oder registriert sein, um den Chat zu benutzen";	// The message that guests view when logged out
+	
+	
 	// ######################## NOTIFICATIONS #########################
-	$language[0]			=	"Notifications"; 							// Displayed in the title bar of the notifications popup
-	$language[9]   			=   "You have no new notifications."; 			// Displayed when a user has no new notifications
-	$language[21]			=	"See all notifications"; 					// The tooltip to see all notifications
-	$language[71]			=	"second ago";								// Displayed after the time in notifications (second)
-	$language[72]			=	"seconds ago";								// Displayed after the time in notifications (seconds)
-	$language[73]			=	"minute ago";								// Displayed after the time in notifications (minute)
-	$language[74]			=	"minutes ago";								// Displayed after the time in notifications (minutes)
-	$language[75]			=	"hour ago";									// Displayed after the time in notifications (hour)
-	$language[76]			=	"hours ago";								// Displayed after the time in notifications (hours)
-	$language[77]			=	"day ago";									// Displayed after the time in notifications (day)
-	$language[78]			=	"days ago";									// Displayed after the time in notifications (days)
-	$language[79]			=	"month ago";								// Displayed after the time in notifications (month)
-	$language[80]			=	"months ago";								// Displayed after the time in notifications (months)
-	$language[81]			=	"year ago";									// Displayed after the time in notifications (year)
-	$language[82]			=	"years ago";								// Displayed after the time in notifications (years)
-	$language[144]			=	"New message from ";						// DISPLAYS USERNAME AFTER - The title for HTML5 notifications
+	$language[0]			=	"Benachrichtigungen"; 							// Displayed in the title bar of the notifications popup
+	$language[9]   			=       "Du hast keine neuen Benachrichtigungen."; 			// Displayed when a user has no new notifications
+	$language[21]			=	"Zeige alle Benachrichtigungen"; 					// The tooltip to see all notifications
+	$language[71]			=	"Gerade eben";								// Displayed after the time in notifications (second)
+	$language[72]			=	"Gerade eben";								// Displayed after the time in notifications (seconds)
+	$language[73]			=	"Minute her";								// Displayed after the time in notifications (minute)
+	$language[74]			=	"Minuten her";								// Displayed after the time in notifications (minutes)
+	$language[75]			=	"Stunde her";									// Displayed after the time in notifications (hour)
+	$language[76]			=	"Stunden her";								// Displayed after the time in notifications (hours)
+	$language[77]			=	"Tag her";									// Displayed after the time in notifications (day)
+	$language[78]			=	"Tage her";									// Displayed after the time in notifications (days)
+	$language[79]			=	"Monat her";								// Displayed after the time in notifications (month)
+	$language[80]			=	"Monate her";								// Displayed after the time in notifications (months)
+	$language[81]			=	"Jahr her";									// Displayed after the time in notifications (year)
+	$language[82]			=	"Jahre her";								// Displayed after the time in notifications (years)
+	$language[144]			=	"Neue Nachricht von: ";						// DISPLAYS USERNAME AFTER - The title for HTML5 notifications
 
 	// ######################### BUDDY LIST ###########################
 	$language[4]			=	"Chat"; 									// Displayed in the title bar of the buddy list popup
