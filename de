@@ -55,23 +55,23 @@
 	// ######################### BUDDY LIST ###########################
 	$language[4]			=	"Chat"; 									// Displayed in the title bar of the buddy list popup
 	$language[7]			=	"Chat (Offline)"; 							// Displayed in the buddy list tab when offline
-	$language[8]    		=   "No one is available to chat."; 			// Displayed with no one is online
-	$language[12]   		=   "Search"; 									// Displayed in the search text area of the buddy list
+	$language[8]    		=       "Keine Clients zum Chatten verfügbar"; 			// Displayed with no one is online
+	$language[12]   		=       "Durchsuchen"; 									// Displayed in the search text area of the buddy list
 	$language[22]			=	"Status";									// Button to show status options in the buddy list
-	$language[23]			=	"Options";									// Button to show options in the buddy list
-	$language[25]			=	"Loading...";								// Text to show while the buddy list is loading
-	$language[26]			=	"No friends found.";						// Displayed when no friends are found after searching
-	$language[119]			=	"Enter a name to chat with";				// Displayed in the guest username box
-	$language[120]			=	"You must enter a name.";					// Error message when the user enters no guest name
-	$language[121]			=	"The name can only consist of letters and numbers.";	// Error message when the user enters a guest name with more than letter/numbers
-	$language[122]			=	"There is a blocked word in your name: ";	// DISPLAYS BLOCKED WORD AFTER - Error message when the user enters a blocked word guest name
-	$language[123]			=	"You cannot change your name again.";		// Error message when user trys to change guest name again
-	$language[124]			=	"That name already exists.";				// Error message when duplicate guest name is selected
-	$language[125]			=	"The name cannot be more than 25 characters.";// Error message when guest name is too long
-	$language[140]			=	"Connect to Facebook";						// Text to connect to Facebook
-	$language[141]			=	"Logout from Facebook";						// Text to logout from Facebook
-	$language[142]			=	"Site Users";								// Text to display for site user's group
-	$language[143]			=	"Facebook Friends";							// Text to display for facebook friend's group
+	$language[23]			=	"Optionen";									// Button to show options in the buddy list
+	$language[25]			=	"Lädt...";								// Text to show while the buddy list is loading
+	$language[26]			=	"Keine Freunde gefunden.";						// Displayed when no friends are found after searching
+	$language[119]			=	"Namen eingeben um mit Zielperson zu Chatten.";				// Displayed in the guest username box
+	$language[120]			=	"Du musst einen Namen eingeben.";					// Error message when the user enters no guest name
+	$language[121]			=	"Der Name kann nur aus Buchstaben und Zahlen bestehen.";	// Error message when the user enters a guest name with more than letter/numbers
+	$language[122]			=	"Ein unerlaubtes Wort wurde im Namen gefunden: ";	// DISPLAYS BLOCKED WORD AFTER - Error message when the user enters a blocked word guest name
+	$language[123]			=	"Du kannst deinen Namen nicht nochmal ändern.";		// Error message when user trys to change guest name again
+	$language[124]			=	"Der Name ist vergeben.";				// Error message when duplicate guest name is selected
+	$language[125]			=	"Der Name darf 25 Zeichen nicht überschreiten.";// Error message when guest name is too long
+	$language[140]			=	"Mit Facebook verbinden";						// Text to connect to Facebook
+	$language[141]			=	"Aus Facebook ausloggen";						// Text to logout from Facebook
+	$language[142]			=	"Userliste";								// Text to display for site user's group
+	$language[143]			=	"Facebook Freunde";							// Text to display for facebook friend's group					// Text to display for facebook friend's group
 
 	// ########################### OPTIONS ############################
 	$language[5]			=	"Available to Chat";						// Option to go offline text
