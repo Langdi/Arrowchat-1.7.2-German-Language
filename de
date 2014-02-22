@@ -24,7 +24,7 @@
 	$status['available']       	=	"Client verf&uuml;gbar";							// Default available status message
 	$status['busy']			=	"Client besch&auml;ftigt";									// Default busy status message
 	$status['away']			=	"Client abwesend";									// Default idle status message
-	$status['offline']		=	"Client Offline";								// Default offline status message
+	$status['offline']		=	"Client offline";								// Default offline status message
 	$status['invisible']    	=	"Client unsichtbar";								// Default invisible status message
 	$language[83]			=	"Gast";									// Displayed if the user has no username
 
