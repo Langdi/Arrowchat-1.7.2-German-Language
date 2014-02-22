@@ -8,7 +8,7 @@
 	|| # This file may not be redistributed in whole or significant part. # ||
 	|| # ---------------- ARROWCHAT IS NOT FREE SOFTWARE ---------------- # ||
 	|| #   http://www.arrowchat.com | http://www.arrowchat.com/license/   # ||
-	|| # Germany Translation 1.7.2 by PatrickGER - Patrick Mazurek        # ||
+	|| # German Translation 1.7.2 by PatrickGER - Patrick Mazurek        # ||
 	|| #                 http://www.talk-reloaded.de                      # ||
 	|| #################################################################### ||
 	*/
