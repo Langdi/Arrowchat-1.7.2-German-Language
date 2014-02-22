@@ -61,7 +61,7 @@
 	$language[12]   		=       "Durchsuchen"; 									// Displayed in the search text area of the buddy list
 	$language[22]			=	"Status";									// Button to show status options in the buddy list
 	$language[23]			=	"Optionen";									// Button to show options in the buddy list
-	$language[25]			=	"Lädt...";								// Text to show while the buddy list is loading
+	$language[25]			=	"L&auml;dt...";								// Text to show while the buddy list is loading
 	$language[26]			=	"Keine Freunde gefunden.";						// Displayed when no friends are found after searching
 	$language[119]			=	"Namen eingeben um mit Zielperson zu Chatten.";				// Displayed in the guest username box
 	$language[120]			=	"Du musst einen Namen eingeben.";					// Error message when the user enters no guest name
@@ -76,69 +76,69 @@
 	$language[143]			=	"Facebook Freunde";							// Text to display for facebook friend's group					// Text to display for facebook friend's group
 
 	// ########################### OPTIONS ############################
-	$language[5]			=	"Available to Chat";						// Option to go offline text
-	$language[6]			=	"Chat Sounds";								// Option to play sound for new messages text
-	$language[17]   		=   "Keep List Open";							// Option to keep the buddy list open text
-	$language[18]   		=   "Show Names Only";							// Option to hide avatars in the buddy list text
-	$language[29]			=	"Theme:";									// Text to display next to the theme change select box
-	$language[95]			=	"Manage Block List...";						// Option to manage the block list
-	$language[96]			=	"Select the user you wish to unblock";		// Text to display when a user is managing the block list
-	$language[97]			=	"Unblock";									// Text to display on unblock button
-	$language[108]			=	"Select the theme you wish to use";			// Text to display when a user is choosing a theme
-	$language[109]			=	"Choose";									// Text to display on the choose theme button
-	$language[118]			=	"Select";									// Text to display on the selection for the block menu
+	$language[5]			=	"Verf&uuml;gbar zum Chat";						// Option to go offline text
+	$language[6]			=	"Chat Kl&auml;nge";								// Option to play sound for new messages text
+	$language[17]   		=       "Liste offen lassen";							// Option to keep the buddy list open text
+	$language[18]   		=       "Nur Namen anzeigen";							// Option to hide avatars in the buddy list text
+	$language[29]			=	"Stil:";									// Text to display next to the theme change select box
+	$language[95]			=	"Ignorierliste verwalten...";						// Option to manage the block list
+	$language[96]			=	"Benutzer markieren, der aus der Ignorierliste entfernt werden soll";		// Text to display when a user is managing the block list
+	$language[97]			=	"Nicht mehr blockieren";									// Text to display on unblock button
+	$language[108]			=	"Stil auswählen, der benutzt werden soll";			// Text to display when a user is choosing a theme
+	$language[109]			=	"Ausw&auml;hlen";									// Text to display on the choose theme button
+	$language[118]			=	"Ausw&auml;hlen";									// Text to display on the selection for the block menu
 
 	// ######################## APPLICATIONS ##########################
-	$language[16]  		 	=   "Applications";								// Displayed in the title bar of the applications popup
-	$language[20]			=	"Bookmarks";								// Displayed in the applications popup for the user's bookmarked applications
-	$language[64]			=	"Other Applications";						// Displayed under bookmarks (non-bookmarks heading)
-	$language[65]			=	"Drag to reorder";							// Drag to reorder text
-	$language[104]			=	"Keep App Open";							// Displayed in the menu to keep an app window open
-	$language[105]			=	"Always Load App";							// Displayed in the menu to load the app when the bar loads
+	$language[16]  		 	=       "Apps";								// Displayed in the title bar of the applications popup
+	$language[20]			=	"Lesezeichen";								// Displayed in the applications popup for the user's bookmarked applications
+	$language[64]			=	"Andere Apps";						// Displayed under bookmarks (non-bookmarks heading)
+	$language[65]			=	"Ziehen zum Ordnen";							// Drag to reorder text
+	$language[104]			=	"App offen lassen";							// Displayed in the menu to keep an app window open
+	$language[105]			=	"Apps immer laden";							// Displayed in the menu to load the app when the bar loads
 
 	// ######################### HIDE CHAT ############################
-	$language[14]   		=   "Hide Chat";								// Displayed when the user hovers over the hide chat button
-	$language[15]   		=   "Show Chat";								// Displayed when the user hovers over the show chat button
+	$language[14]   		=   "Chat ausblenden";								// Displayed when the user hovers over the hide chat button
+	$language[15]   		=   "Chat anzeigen";								// Displayed when the user hovers over the show chat button
 
 	// ######################## POPOUT CHAT ############################
-	$language[10]   		=   "Pop Out Chat";								// Option to pop out chat
-	$language[11]   		=   "Pop In Chat";								// Option to pop in chat
+	$language[10]   		=   "Neues Fenster";								// Option to pop out chat
+	$language[11]   		=   "Chat wiederherstellen";								// Option to pop in chat
 
 	// ############################ CHAT ###############################
-	$language[13]  	 		=   "This user is offline. They will receive the message next login";		// DISPLAYS USERNAME FIRST - Shown when a message is sent to an offline user
-	$language[24]			=	"Clear Conversation";													// Displayed in the chat popup to clear chat history
-	$language[30]			=	"New message from";														// DISPLAYS USERNAME AFTER - Blinks in the title of the browser on new messages
-	$language[59]			=	"More &#9660;";															// The text to display more chat options
-	$language[60]			=	"Start a Video Call";															// The video chat option in the more menu
-	$language[61]			=	"I have sent you a video chat request. Ignore this message to decline.";// The message to send when a video chat is reuqested
-	$language[62]			=	"Accept";																// Accept a video chat request
-	$language[63]			=	"Your video chat request has been sent.";								// Displayed when a user sends a video chat request
-	$language[66]			=	"Send a File...";														// The file transfer option in the more menu
-	$language[67]			=	"cancel the upload";														// The link to cancel the file transfer
-	$language[68]			=	"Your file has been uploaded and sent.";								// Displayed when a user sends a file
-	$language[69]			=	"I have sent you a file. Ignore this message to decline.";				// The message to send when a file is sent
-	$language[70]			=	"Download file";														// Download a file that was sent
-	$language[84]			=	"Block User";															// Blocks a user
-	$language[85]			=	"Would you also like to report this user?";								// Asks the user if they want to report another user
-	$language[86]			=	"Browse";																// The text to browse for a file when uploading
-	$language[87]			=	"Hit browse to upload a file or ";										// Text to display when uploading a file
-	$language[88]			=	"Popout all chat conversations";										// Displays when mouseover the popout chat icon
-	$language[89]			=	"Close chat";															// Displays when mouserver the close icon
-	$language[90]			=	"You";																	// Displays on mosueover of your own chat text
-	$language[102]			=	"Message not sent.  This user has blocked you.";						// Displays this when a user tries to send a message to another user who has them blocked
-	$language[103]			=	"The user has been blocked. Messages by the user will no longer be received."; // Displays when a user is blocked
-	$language[134]			=	"Scroll down to see new messages.";										// Displays when a chat window is not scrolled down on a new message
-	$language[135]			=	"There was an error sending your message. Try again later.";			// Error message when a message fails to send
+	$language[13]  	 		=       "Der Benutzer ist offline, die Nachricht wird übermittelt, sobald er wieder online ist.";		// DISPLAYS USERNAME FIRST - Shown when a message is sent to an offline user
+	$language[24]			=	"Konversation leeren";													// Displayed in the chat popup to clear chat history
+	$language[30]			=	"Neue Nachricht von:";														// DISPLAYS USERNAME AFTER - Blinks in the title of the browser on new messages
+	$language[59]			=	"Mehr &#9660;";															// The text to display more chat options
+	$language[60]			=	"Videoanruf beginnen";															// The video chat option in the more menu
+	$language[61]			=	"Videoanfrage empfangen. Ignoriere diese Nachricht um abzulehnen.";// The message to send when a video chat is reuqested
+	$language[62]			=	"Akzeptieren";																// Accept a video chat request
+	$language[63]			=	"Deine Videochat anfrage wurde versendet.";								// Displayed when a user sends a video chat request
+	$language[66]			=	"Datei senden...";														// The file transfer option in the more menu
+	$language[67]			=	"Upload abbrechen";														// The link to cancel the file transfer
+	$language[68]			=	"Deine Datei wurde hochgeladen und versendet.";								// Displayed when a user sends a file
+	$language[69]			=	"Datei empfangen. Ignorieren um abzulehnen.";				// The message to send when a file is sent
+	$language[70]			=	"Datei Downloaden";														// Download a file that was sent
+	$language[84]			=	"Benutzer Blockieren";															// Blocks a user
+	$language[85]			=	"Willst du wirklich diesen Benutzer melden?";								// Asks the user if they want to report another user
+	$language[86]			=	"Suchen---";																// The text to browse for a file when uploading
+	$language[87]			=	"Suche anklicken um Datei hochzuladen ";										// Text to display when uploading a file
+	$language[88]			=	"Alle Chats im neuen Fenster &ouml;ffnen";										// Displays when mouseover the popout chat icon
+	$language[89]			=	"Chat schliessen";															// Displays when mouserver the close icon
+	$language[90]			=	"Du";																	// Displays on mosueover of your own chat text
+	$language[102]			=	"Nachricht konnte nicht versendet werden, der Benutzer hat dich geblockt.";						// Displays this when a user tries to send a message to another user who has them blocked
+	$language[103]			=	"Der Benutzer wurde blockiert, du wirst keine Nachrichten mehr von ihm Empfangen."; // Displays when a user is blocked
+	$language[134]			=	"Scrolle herunter, um neue Nachrichten einzusehen.";										// Displays when a chat window is not scrolled down on a new message
+	$language[135]			=	"Deine Nachricht wurde nicht versendet, versuche es später nocheinmal.";			// Error message when a message fails to send
 
 	// ######################### CHAT ROOMS #############################
-	$language[19]			=	"Chat Rooms";								// Displayed in the chatrooms popup and tab
-	$language[31]			=	"Create";									// Button to show create chatroom
-	$language[32]			=	"Options";									// Button to show chatroom options
-	$language[33]			=	"Leave";									// Button to show leave chatroom
-	$language[34]			=	"Loading...";								// Text so show while the chatroom list is loading
-	$language[35]			=	" Online";									// DISPLAYS ONLINE COUNT FIRST - Shown after online count in list
-	$language[37]			=	"Create a new chat room:";					// Text to display in the create chatroom popup
-	$language[36]   		=   "Keep Room Open";							// Option to keep the chatroom window open
+	$language[19]			=	"Gruppenchats";								// Displayed in the chatrooms popup and tab
+	$language[31]			=	"Erstellen";									// Button to show create chatroom
+	$language[32]			=	"Optionen";									// Button to show chatroom options
+	$language[33]			=	"Verlassen";									// Button to show leave chatroom
+	$language[34]			=	"L&auml;dt...";								// Text so show while the chatroom list is loading
+	$language[35]			=	"Online";									// DISPLAYS ONLINE COUNT FIRST - Shown after online count in list
+	$language[37]			=	"Erstelle neuen Gruppenchat:";					// Text to display in the create chatroom popup
+	$language[36]   		=       "Gruppenchat offen lassen";							// Option to keep the chatroom window open
 	$language[47]			=	"Stay in Room";								// Option to stay in the chatroom without the window open on page load
 	$language[38]			=	"Block Private Chats";						// Option to block private chats from users in the chatroom
 	$language[39]			=	"You must wait more time before creating another chatroom.";	// Error to show when the chatroom flood limit is reached
