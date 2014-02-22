@@ -131,12 +131,12 @@
 	$language[135]			=	"Deine Nachricht wurde nicht versendet, versuche es später nocheinmal.";			// Error message when a message fails to send
 
 	// ######################### CHAT ROOMS #############################
-	$language[19]			=	"Gruppenchats";								// Displayed in the chatrooms popup and tab
+	$language[19]			=	"Gruppen-Chat";								// Displayed in the chatrooms popup and tab
 	$language[31]			=	"Erstellen";									// Button to show create chatroom
 	$language[32]			=	"Optionen";									// Button to show chatroom options
 	$language[33]			=	"Verlassen";									// Button to show leave chatroom
 	$language[34]			=	"L&auml;dt...";								// Text so show while the chatroom list is loading
-	$language[35]			=	"Online";									// DISPLAYS ONLINE COUNT FIRST - Shown after online count in list
+	$language[35]			=	" online";									// DISPLAYS ONLINE COUNT FIRST - Shown after online count in list
 	$language[37]			=	"Erstelle neuen Gruppenchat:";					// Text to display in the create chatroom popup
 	$language[36]   		=       "Gruppenchat offen lassen";							// Option to keep the chatroom window open
 	$language[47]			=	"Stay in Room";								// Option to stay in the chatroom without the window open on page load
