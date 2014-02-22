@@ -118,7 +118,7 @@
 	$language[68]			=	"Deine Datei wurde hochgeladen und versendet.";								// Displayed when a user sends a file
 	$language[69]			=	"Datei empfangen. Ignorieren um abzulehnen.";				// The message to send when a file is sent
 	$language[70]			=	"Datei Downloaden";														// Download a file that was sent
-	$language[84]			=	"Benutzer Blockieren";															// Blocks a user
+	$language[84]			=	"Benutzer blockieren";															// Blocks a user
 	$language[85]			=	"Willst du wirklich diesen Benutzer melden?";								// Asks the user if they want to report another user
 	$language[86]			=	"Suchen---";																// The text to browse for a file when uploading
 	$language[87]			=	"Suche anklicken um Datei hochzuladen ";										// Text to display when uploading a file
