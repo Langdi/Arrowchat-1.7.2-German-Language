@@ -63,7 +63,7 @@
 	$language[23]			=	"Optionen";									// Button to show options in the buddy list
 	$language[25]			=	"L&auml;dt...";								// Text to show while the buddy list is loading
 	$language[26]			=	"Keine Freunde gefunden.";						// Displayed when no friends are found after searching
-	$language[119]			=	"Namen eingeben um mit Zielperson zu Chatten.";				// Displayed in the guest username box
+	$language[119]			=	"Namen eingeben um mit Zielperson zu chatten.";				// Displayed in the guest username box
 	$language[120]			=	"Du musst einen Namen eingeben.";					// Error message when the user enters no guest name
 	$language[121]			=	"Der Name kann nur aus Buchstaben und Zahlen bestehen.";	// Error message when the user enters a guest name with more than letter/numbers
 	$language[122]			=	"Ein unerlaubtes Wort wurde im Namen gefunden: ";	// DISPLAYS BLOCKED WORD AFTER - Error message when the user enters a blocked word guest name
@@ -127,7 +127,7 @@
 	$language[90]			=	"Du";																	// Displays on mosueover of your own chat text
 	$language[102]			=	"Nachricht konnte nicht versendet werden, der Benutzer hat dich geblockt.";						// Displays this when a user tries to send a message to another user who has them blocked
 	$language[103]			=	"Der Benutzer wurde blockiert, du wirst keine Nachrichten mehr von ihm Empfangen."; // Displays when a user is blocked
-	$language[134]			=	"Scrolle herunter, um neue Nachrichten einzusehen.";										// Displays when a chat window is not scrolled down on a new message
+	$language[134]			=	"Scrolle hinunter, um neue Nachrichten einzusehen.";										// Displays when a chat window is not scrolled down on a new message
 	$language[135]			=	"Deine Nachricht wurde nicht versendet, versuche es später nocheinmal.";			// Error message when a message fails to send
 
 	// ######################### CHAT ROOMS #############################
@@ -169,7 +169,7 @@
 	$language[101]			=	"Gruppenchat Sounds";							// The option to enable/disable chat room sounds
 	$language[106]			=	" wurde zum Moderator gemacht, von ";			// DISPLAYS USERNAME FIRST/MODERATOR AFTER - Shown after a user is made a moderator
 	$language[107]			=	" wurde vom Gruppenchat gekickt, von  ";	// DISPLAYS USERNAME FIRST/MODERATOR AFTER - Shown after a user is kicked
-	$language[117]			=	"Gruppenchat im neuen Fenster &ouml;ffnen";							// Option to pop out the chat room
+	$language[117]			=	"Gruppenchat in neuem Fenster &ouml;ffnen";							// Option to pop out the chat room
 	$language[127]			=	"In diesem Gruppenchat sind zu viele Benutzer.  Versuche es sp&auml;ter nocheinmal.";	// Displayed when a user tries to enter a chat room with too many online.
 	$language[136]			=	" (Admin)";									// Will display after a username when an administrator
 	$language[137]			=	" (Mod)";									// Will display after a username when a moderator
@@ -189,7 +189,7 @@
 	$language[131]			=	"Inaktive Benutzer anzeigen";	// The option to show idle users
 	$language[132]			=	"Ein";					// The on option for a toggle
 	$language[133]			=	"Aus";					// The off option for a toggle
-	$language[138]			=	"Gebe das Passwort f&uuml;r diesen Raum ein:";	// Text to display for the chat room password input
+	$language[138]			=	"Gib das Passwort f&uuml;r diesen Raum ein:";	// Text to display for the chat room password input
 	$language[139]			=	"Gruppenchat betreten";		// The submit button to enter a chat room
 
 ?>
